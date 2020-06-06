@@ -3,7 +3,7 @@
 <br />
 <br />
 
-**The subject of this project consisted in comparing and analyzing the average temperatures measured on earth since the 19th century, both globally and locally in Munich/Germany, where I live. ** 
+**The subject of this project consisted in comparing and analyzing the average temperatures measured on earth since the 19th century, both globally and locally in Munich/Germany, where I live.** 
 
 The aim of this introduction project, was to perform a first analysis while learning to master skills like:
   - aquiring data from a SQL Database
