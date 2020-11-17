@@ -1,16 +1,20 @@
-### Project1: "Explore Weather Trends" from the "Data Analyst Nanodegree Program" - Udacity Certificate
-#### by Karine Legrand    
-<br />
-<br />
+# Project1: "Explore Weather Trends"
+## by Karine Legrand
 
-**The subject of this project consisted in comparing and analyzing the average temperatures measured on earth since the 18th century, both globally and locally in Munich/Germany, where I live.** 
+## from the "Data Analyst Nanodegree Program" - Udacity Certificate
 
-The aim of this introduction project, was to perform a first analysis while learning to master skills like:
-  - aquiring data from a SQL Database
-  - importing data from csv Files into Exel/Google Sheets
-  - mastering basic statistic operations and generate visualizations       within Exel/Google Sheets
+## The subject of this project consisted in comparing and analyzing the average temperatures measured
+## from the end of the 19th century until nowadays, both locally where I live (Munich/Germany) and
+## globally.
+
+### Goals: Introduction to a first Analysis approach including mastering skills like:
+### - acquiring Data from a SQL Database
+### - importing data from csv Files into Excel/Google Sheets
+### - mastering basic statistic operations and generate Visualizations
 
 
-The steps taken to achieve this analysis are described in the project report file: _"Project\_Weather\_Trends.pdf"_
+### The Steps taken to achieve this Analysis are described
+### in the Project File _"Project\_Weather\_Trends.pdf"_
 
-I also included the _csv_ files for global and local temperatures I generated from the SQL queries _"global.csv"_ and _"munich.csv"_, as well as the google sheet I used, for computing moving averages and generating linear plots _"ExploreWeatherTrends.xslx"_
+### The CSV files for global and local temperatures I generated from the SQL queries
+### as well as the google sheet I used, for computing moving averages and generating linear plots, are also provided.
